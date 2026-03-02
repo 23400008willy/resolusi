@@ -2,3 +2,5 @@ RESOLUSION
 - Mampu mengembangkan sistem
 - Menjadi Analisis sistem
 - Menjadi pengembang aplikasi 
+- Membangun dan mengelola database yang aman
+- Menguasai teknologi 
